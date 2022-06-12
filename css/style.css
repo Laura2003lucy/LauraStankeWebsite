@@ -15,3 +15,24 @@
 .test {
     hs
 }
+
+.freunde {
+    max-width: 50%;
+}
+
+.Makeup {
+    max-width: 50%;
+}
+
+.hobby_pic {
+    max-width: 50%;
+    margin: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 50%;
+}
+
+.navhiglight {
+    
+    font-weight: bold;
+}
